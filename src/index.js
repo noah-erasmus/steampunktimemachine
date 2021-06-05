@@ -1,12 +1,24 @@
-import React from 'react';
+import React, { useState} from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
+import '@fontsource/roboto';
+import TimeMachine from './TimeMachine';
+import {StageContext, StageProvider, useStage, StageConsumer} from './StageContext';
+import CssBaseline from '@material-ui/core/CssBaseline';
+import { ThemeProvider } from '@material-ui/core/styles';
+import theme from './theme.js';
 
 ReactDOM.render(
   <React.StrictMode>
-    <App />
+    <StageProvider>
+      <ThemeProvider theme={theme}>
+        <CssBaseline/>
+        <TimeMachine />
+      </ThemeProvider>
+      
+    </StageProvider>
   </React.StrictMode>,
   document.getElementById('root')
 );

@@ -1,0 +1,20 @@
+.backgroundImg{
+    background:url('./assets/steam_bg.png');
+    background-position: center;
+    background-size: cover;
+    height: 100vh;
+}
+
+.box-text{
+    color: white;
+}
+
+.stage-container{
+    display: flex;
+    align-items: center;
+    justify-items: center;
+}
+
+.story-box{
+    padding:5%;
+}

@@ -1,0 +1,231 @@
+{
+    "lifeupdate":"You open your eyes and find yourself back at Paddingmore College, it's your first day at the new school. In your class is Lucius Doughtry, the class bully, Zeke Ramsbottom, prodigy and teacher's pet, and also Elijah Leeford, unpopular but misunderstood. Who will you choose to be your friend?",
+    "bully":{
+        "consequence":"Years later you have grown close with Lucius, despite his mean streak, so when it comes time to choose your specialization for the next stage of your education, you ask Lucius for his advice. He encourages you to become a physicist, though you feel he might have his own motives for suggesting so.",
+        "lifeupdate":"What career path will you choose?",
+        "scientist":{
+            "consequence":"You find physics to be a fulfilling pursuit, and in your class is the lovely Parthenia Whitesmith. She turns out to be as sharp as she is beautiful and you find yourself falling for her. Following graduation you ask her to be your wife, she says yes.",
+            "lifeupdate":"The two of you live happily together for some years, until Lucius informs you that he has discovered Parthenia is disloyal. You must side with someone, who will it be?",
+            "friend":{
+                "consequence":"You confront your wife regarding Lucius' accusations. After an intense argument you discover that Parthenia had not actually been disloyal, but it is too late, your accusation has driven her away.",
+                "lifeupdate":"You can't remain friends with Lucius after his betrayal, and Parthenia is long gone. Will you fill the hole left  by them with work, or by reconnecting with estranged family?",
+                "family":{
+                    "ending":"Your work is left unfinished but you spend your twilight years cherishing your family. Good riddance to Lucius but you find yourself constantly thinking about Parthenia, and wondering what could have been had you trusted her."
+                },
+                "work":{
+                    "ending":"You eventually complete your greatest work, and go down in history as one of humankind's brightest minds. But you live out the rest our your life alone."
+                }
+            },
+            "wife":{
+                "consequence":"Trusting your wife was the right choice, turns out she is innocent. And now you know of Bully's true nature.",
+                "lifeupdate":"You start a family with Wife, and have 5 happy kids. But you neglect them as the budding breakthroughs in your work consume you. One day Wife gives you an ultimatum, choose between the family and work.",
+                "family":{
+                    "ending":"Your work is left unfinished but you spend your twilight years being a good father to your family. Though the work you left behind always niggeles at your mind."
+                },
+                "work":{
+                    "ending":"You eventually complete your greatest work, and go down in history as one of humankind's brightest scientists. But you live out the rest our your life estranged from your wife and kids."
+                }
+            }
+        },
+        "surgeon":{
+            "consequence":"You meet the girl of your dreams in biology class, following graduation you ask her to marry you. She says yes.",
+            "lifeupdate":"One day Bully informs your wife is disloyal.",
+            "friend":{
+                "consequence":"Your wife was innocent, but your accusations drive her away. You now hate Bully.",
+                "lifeupdate":"With no distractions from your Wife or Bully, work makes significant progress. But you feel lonely, will you reconnect with your family or bury yourself deeper in work?",
+                "family":{
+                    "ending":"Your work is left unfinished but you spend your twilight years cherishing your family. Good riddance to Bully but you find yourself constantly thinking about Wife."
+                },
+                "work":{
+                    "ending":"You eventually complete your greatest work, and go down in history as one of humankind's brightest minds. But you live out the rest our your life alone."
+                }
+            },
+            "wife":{
+                "consequence":"Trusting your wife was the right choice, turns out she is innocent. And now you know of Bully's true nature.",
+                "lifeupdate":"You start a family with Wife, and have 5 happy kids. But you neglect them as the budding breakthroughs in your work consume you. One day Wife gives you an ultimatum, choose between the family and work.",
+                "family":{
+                    "ending":"Your work is left unfinished but you spend your twilight years being a good father to your family. Though the work you left behind always niggeles at your mind."
+                },
+                "work":{
+                    "ending":"You eventually complete your greatest work, and go down in history as one of humankind's brightest surgeons. But you live out the rest our your life estranged from your wife and kids."
+                }
+            }
+        },
+        "ambassador":{
+            "consequence":"You meet the girl of your dreams in science class, following graduation you ask her to marry you. She says yes.",
+            "lifeupdate":"One day Bully informs your wife is disloyal.",
+            "friend":{
+                "consequence":"Your wife was innocent, but your accusations drive her away. You now hate Bully.",
+                "lifeupdate":"With no distractions from your Wife or Bully, work makes significant progress. But you feel lonely, will you reconnect with your family or bury yourself deeper in work?",
+                "family":{
+                    "ending":"Your work is left unfinished but you spend your twilight years cherishing your family. Good riddance to Bully but you find yourself constantly thinking about Wife."
+                },
+                "work":{
+                    "ending":"You eventually complete your greatest work, and go down in history as one of humankind's brightest minds. But you live out the rest our your life alone."
+                }
+            },
+            "wife":{
+                "consequence":"Trusting your wife was the right choice, turns out she is innocent. And now you know of Bully's true nature.",
+                "lifeupdate":"You start a family with Wife, and have 5 happy kids. But you neglect them as the budding breakthroughs in your work consume you. One day Wife gives you an ultimatum, choose between the family and work.",
+                "family":{
+                    "ending":"Your work is left unfinished but you spend your twilight years being a good father to your family. Though the work you left behind always niggeles at your mind."
+                },
+                "work":{
+                    "ending":"You eventually complete your greatest work, and go down in history as one of humankind's brightest scientists. But you live out the rest our your life estranged from your wife and kids."
+                }
+            }
+        }
+    },
+    "prodigy":{
+        "consequence":"Prodigy encourages you to be a Surgeon, discourages being a Scientist.",
+        "lifeupdate":"It has come time to choose a career path.",
+        "scientist":{
+            "consequence":"You meet the girl of your dreams in science class, following graduation you ask her to marry you. She says yes.",
+            "lifeupdate":"One day Prodigy informs your wife is disloyal.",
+            "friend":{
+                "consequence":"Your wife was innocent, but your accusations drive her away. You now hate Prodigy.",
+                "lifeupdate":"With no distractions from your Wife or Prodigy, work makes significant progress. But you feel lonely, will you reconnect with your family or bury yourself deeper in work?",
+                "family":{
+                    "ending":"Your work is left unfinished but you spend your twilight years cherishing your family. Good riddance to Bully but you find yourself constantly thinking about Wife."
+                },
+                "work":{
+                    "ending":"You eventually complete your greatest work, and go down in history as one of humankind's brightest minds. But you live out the rest our your life alone."
+                }
+            },
+            "wife":{
+                "consequence":"Trusting your wife was the right choice, turns out she is innocent. And now you know of Prodigy's true nature.",
+                "lifeupdate":"You start a family with Wife, and have 5 happy kids. But you neglect them as the budding breakthroughs in your work consume you. One day Wife gives you an ultimatum, choose between the family and work.",
+                "family":{
+                    "ending":"Your work is left unfinished but you spend your twilight years being a good father to your family. Though the work you left behind always niggles at your mind."
+                },
+                "work":{
+                    "ending":"You eventually complete your greatest work, and go down in history as one of humankind's brightest scientists. But you live out the rest our your life estranged from your wife and kids."
+                }
+            }
+        },
+        "surgeon":{
+            "consequence":"You meet the girl of your dreams in biology class, following graduation you ask her to marry you. She says yes.",
+            "lifeupdate":"One day Prodigy informs your wife is disloyal.",
+            "friend":{
+                "consequence":"Your wife was innocent, but your accusations drive her away. You now hate Prodigy.",
+                "lifeupdate":"With no distractions from your Wife or Prodigy, work makes significant progress. But you feel lonely, will you reconnect with your family or bury yourself deeper in work?",
+                "family":{
+                    "ending":"Your work is left unfinished but you spend your twilight years cherishing your family. Good riddance to Prodigy but you find yourself constantly thinking about Wife."
+                },
+                "work":{
+                    "ending":"You eventually complete your greatest work, and go down in history as one of humankind's brightest minds. But you live out the rest our your life alone."
+                }
+            },
+            "wife":{
+                "consequence":"Trusting your wife was the right choice, turns out she is innocent. And now you know of Prodigy's true nature.",
+                "lifeupdate":"You start a family with Wife, and have 5 happy kids. But you neglect them as the budding breakthroughs in your work consume you. One day Wife gives you an ultimatum, choose between the family and work.",
+                "family":{
+                    "ending":"Your work is left unfinished but you spend your twilight years being a good father to your family. Though the work you left behind always niggeles at your mind."
+                },
+                "work":{
+                    "ending":"You eventually complete your greatest work, and go down in history as one of humankind's brightest scientists. But you live out the rest our your life estranged from your wife and kids."
+                }
+            }
+        },
+        "ambassador":{
+            "consequence":"You meet the girl of your dreams in politics class, following graduation you ask her to marry you. She says yes.",
+            "lifeupdate":"One day Prodigy informs your wife is disloyal.",
+            "friend":{
+                "consequence":"Your wife was innocent, but your accusations drive her away. You now hate Prodigy.",
+                "lifeupdate":"With no distractions from your Wife or Prodigy, work makes significant progress. But you feel lonely, will you reconnect with your family or bury yourself deeper in work?",
+                "family":{
+                    "ending":"Your work is left unfinished but you spend your twilight years cherishing your family. Good riddance to Prodigy but you find yourself constantly thinking about Wife."
+                },
+                "work":{
+                    "ending":"You eventually complete your greatest work, and go down in history as one of humankind's brightest minds. But you live out the rest our your life alone."
+                }
+            },
+            "wife":{
+                "consequence":"Trusting your wife was the right choice, turns out she is innocent. And now you know of Prodigy's true nature.",
+                "lifeupdate":"You start a family with Wife, and have 5 happy kids. But you neglect them as the budding breakthroughs in your work consume you. One day Wife gives you an ultimatum, choose between the family and work.",
+                "family":{
+                    "ending":"Your work is left unfinished but you spend your twilight years being a good father to your family. Though the work you left behind always niggeles at your mind."
+                },
+                "work":{
+                    "ending":"You eventually complete your greatest work, and go down in history as one of humankind's brightest scientists. But you live out the rest our your life estranged from your wife and kids."
+                }
+            }
+        }
+    },
+    "loser":{
+        "consequence":"Years later you have grown close with Elijah, his heart of gold makes him a great friend, so when it comes time to choose your specialization for the next stage of your education, you ask Elijah for his advice. He encourages you to become an ambassador, saying that he believes you could bring peace to conflicting nations.",
+        "lifeupdate":"What career path will you choose?",
+        "scientist":{
+            "consequence":"You meet the girl of your dreams in politics class, following graduation you ask her to marry you. She says yes.",
+            "lifeupdate":"One day Loser informs your wife is disloyal.",
+            "friend":{
+                "consequence":"Your wife was innocent, but your accusations drive her away. You now hate Loser.",
+                "lifeupdate":"With no distractions from your Wife or Loser, work makes significant progress. But you feel lonely, will you reconnect with your family or bury yourself deeper in work?",
+                "family":{
+                    "ending":"Your work is left unfinished but you spend your twilight years cherishing your family. Good riddance to Loser but you find yourself constantly thinking about Wife."
+                },
+                "work":{
+                    "ending":"You eventually complete your greatest work, and go down in history as one of humankind's brightest minds. But you live out the rest our your life alone."
+                }
+            },
+            "wife":{
+                "consequence":"Trusting your wife was the right choice, turns out she is innocent. And now you know of Loser's true nature.",
+                "lifeupdate":"You start a family with Wife, and have 5 happy kids. But you neglect them as the budding breakthroughs in your work consume you. One day Wife gives you an ultimatum, choose between the family and work.",
+                "family":{
+                    "ending":"Your work is left unfinished but you spend your twilight years being a good father to your family. Though the work you left behind always niggeles at your mind."
+                },
+                "work":{
+                    "ending":"You eventually complete your greatest work, and go down in history as one of humankind's brightest scientists. But you live out the rest our your life estranged from your wife and kids."
+                }
+            }
+        },
+        "surgeon":{
+            "consequence":"You meet the girl of your dreams in biology class, following graduation you ask her to marry you. She says yes.",
+            "lifeupdate":"One day Loser informs your wife is disloyal.",
+            "friend":{
+                "consequence":"Your wife was innocent, but your accusations drive her away. You now hate Loser.",
+                "lifeupdate":"With no distractions from your Wife or Loser, work makes significant progress. But you feel lonely, will you reconnect with your family or bury yourself deeper in work?",
+                "family":{
+                    "ending":"Your work is left unfinished but you spend your twilight years cherishing your family. Good riddance to Loser but you find yourself constantly thinking about Wife."
+                },
+                "work":{
+                    "ending":"You eventually complete your greatest work, and go down in history as one of humankind's brightest minds. But you live out the rest our your life alone."
+                }
+            },
+            "wife":{
+                "consequence":"Trusting your wife was the right choice, turns out she is innocent. And now you know of Loser's true nature.",
+                "lifeupdate":"You start a family with Wife, and have 5 happy kids. But you neglect them as the budding breakthroughs in your work consume you. One day Wife gives you an ultimatum, choose between the family and work.",
+                "family":{
+                    "ending":"Your work is left unfinished but you spend your twilight years being a good father to your family. Though the work you left behind always niggeles at your mind."
+                },
+                "work":{
+                    "ending":"You eventually complete your greatest work, and go down in history as one of humankind's brightest surgeons. But you live out the rest our your life estranged from your wife and kids."
+                }
+            }
+        },
+        "ambassador":{
+            "consequence":"You find politics to be more interesting than you expected, and in your class is the lovely Parthenia Whitesmith. She turns out to be as sharp as she is beautiful and you find yourself falling for her. Following graduation you ask her to be your wife, she says yes.",
+            "lifeupdate":"The two of you live happily together for some years, until Elijah informs you that he has discovered Parthenia is disloyal. You must side with someone, who will it be?",
+            "friend":{
+                "consequence":"You confront your wife regarding Elijah's accusations. After an intense argument you discover that Parthenia had in fact been disloyal. You thank Elijah for the warning, though it breaks your heart, it is better to know.",
+                "lifeupdate":"You continue on with your work, and find yourself having increased success now with less distractions. But you feel lonely, will you reconnect with your family or bury yourself deeper in work?",
+                "family":{
+                    "ending":"Your work is left unfinished but you spend your twilight years cherishing your family. Good riddance to Loser but you find yourself constantly thinking about Wife."
+                },
+                "work":{
+                    "ending":"You eventually complete your greatest work, negotiating a peace treaty for a conflict between nations that had lasted decades. But you live out the rest of your life without any family to speak of, at least Elijah is always there for you."
+                }
+            },
+            "wife":{
+                "consequence":"Trusting your wife was the right choice, turns out she is innocent. And now you know of Loser's true nature.",
+                "lifeupdate":"You start a family with Wife, and have 5 happy kids. But you neglect them as the budding breakthroughs in your work consume you. One day Wife gives you an ultimatum, choose between the family and work.",
+                "family":{
+                    "ending":"Your work is left unfinished but you spend your twilight years being a good father to your family. Though the work you left behind always niggeles at your mind."
+                },
+                "work":{
+                    "ending":"You eventually complete your greatest work, and go down in history as one of humankind's brightest scientists. But you live out the rest our your life estranged from your wife and kids."
+                }
+            }
+        }
+    }
+}
